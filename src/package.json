@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@microsoft/tsdoc": "^0.12.14",
-    "@types/fs-extra": "^8.0.1",
+    "@types/fs-extra": "^8.1.0",
     "@types/random": "^2.1.0",
     "commander": "^3.0.2",
     "delay": "^4.3.0",
