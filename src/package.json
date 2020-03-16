@@ -25,7 +25,7 @@
     "@microsoft/tsdoc": "^0.12.14",
     "@types/fs-extra": "^8.0.1",
     "@types/random": "^2.1.0",
-    "commander": "^3.0.2",
+    "commander": "^5.0.0",
     "delay": "^4.3.0",
     "download": "^7.1.0",
     "facebook-chat-api": "^1.6.1",
