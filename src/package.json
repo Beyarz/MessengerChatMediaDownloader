@@ -22,7 +22,7 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "@microsoft/tsdoc": "^0.12.14",
+    "@microsoft/tsdoc": "^0.12.19",
     "@types/fs-extra": "^8.0.1",
     "@types/random": "^2.1.0",
     "commander": "^3.0.2",
