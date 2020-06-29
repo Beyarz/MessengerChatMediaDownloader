@@ -28,7 +28,7 @@
     "commander": "^3.0.2",
     "delay": "^4.3.0",
     "download": "^7.1.0",
-    "facebook-chat-api": "^1.6.1",
+    "facebook-chat-api": "^1.8.0",
     "fs-extra": "^8.1.0",
     "random": "^2.1.1"
   },
